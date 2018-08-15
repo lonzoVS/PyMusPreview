@@ -124,7 +124,7 @@ try:
                           stderr=subprocess.DEVNULL)
 
         #we can remove tempfile after each itteration or use '-y' parameter in ffmpeg cropping command
-        #to force ffmpeg overwrite temp file, since the file is in the temp folder, witch will get deleted
+        #to force ffmpeg overwrite temp file, since the file is in the temp folder, wich will get deleted
         #anyway in the finnaly block
         #os.remove(tempfile)
 
