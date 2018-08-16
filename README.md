@@ -4,4 +4,4 @@ Note that you need to have ffmpeg executable in the same directory as the script
 
 # Basic usage:
 
-> pypreviewmix --source D:\spotify_offline --length 30
+> pymuspreview --source D:\spotify_offline --length 30
